@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashemmoradmand
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 
